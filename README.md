@@ -1,6 +1,8 @@
-# Hi. I'm Talles Santos
+# Hi there 👋, I'm Talles Batista Rattis Santos
 
-I'm a Teaching Assistant Professor in the **CU Boulder–CMU Engineering Partnership Program** based at **Colorado Mesa University**.
+I'm a Teaching Assistant Professor in the **CU–CMU Engineering Partnership Program**  
+and an Instructor in **Computer Science & Engineering** at **Colorado Mesa University**, where I live and teach locally.
+
 ---
 
 ## 🏫 About Our Program
@@ -10,7 +12,7 @@ The program is offered entirely in **Grand Junction**, with the first two years 
 The Electrical and Computer Engineering degree prepares students for careers in a wide range of industries through the rigorous study of electrical and computer engineering. 
 Students participate in hands-on engineering design projects beginning their first year and continue to throughout their time at CMU culminating with their senior design projects.
 
-![Confluence Hall, CMU](images/ConfluenceHall.pdf)
+![Confluence Hall, CMU](/ConfluenceHall.jpg)
 Learn more: http://www.coloradomesa.edu/engineering/degrees/electrical-computer-engineering.html
 ---
 
@@ -23,6 +25,7 @@ More about me:
 - CU Boulder profile: http://www.colorado.edu/ecee/talles-santos  
 - CMU directory: http://www.coloradomesa.edu/directory/computer-science-engineering/talles-santos.html  
 - Google Scholar: https://scholar.google.com/citations?user=iazmN8MAAAAJ&hl=en&oi=ao
+
 ---
 
 ## 💼 Experience
