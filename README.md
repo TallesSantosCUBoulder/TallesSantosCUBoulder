@@ -1,4 +1,4 @@
-# Hi. I'm Talles Santos
+# Hi. I'm Talles Santos.
 
 I'm a Teaching Assistant Professor in the **CU–CMU Engineering Partnership Program**  
 and an Instructor in **Computer Science & Engineering** at **Colorado Mesa University**, where I live and teach locally.
@@ -44,7 +44,7 @@ bridging theory with practice and helping students gain hands-on experience.
 - Control systems and signal processing  
 - Embedded electronics and hardware interfaces  
 - Python, MATLAB, and C programming  
-- Open-source projects that make learning easier
+- Open-Source Software & Hardware
 
 ---
 
