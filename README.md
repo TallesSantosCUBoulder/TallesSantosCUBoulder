@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Talles Batista Rattis Santos
+# Hi. I'm Talles Santos
 
 I'm a Teaching Assistant Professor in the **CU–CMU Engineering Partnership Program**  
 and an Instructor in **Computer Science & Engineering** at **Colorado Mesa University**, where I live and teach locally.
