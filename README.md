@@ -12,8 +12,9 @@ The program is offered entirely in **Grand Junction**, with the first two years 
 The Electrical and Computer Engineering degree prepares students for careers in a wide range of industries through the rigorous study of electrical and computer engineering. 
 Students participate in hands-on engineering design projects beginning their first year and continue to throughout their time at CMU culminating with their senior design projects.
 
-![Confluence Hall, CMU](/ConfluenceHall.jpg)
+<img src="https://raw.githubusercontent.com/TallesSantosCUBoulder/TallesSantosCUBoulder/main/ConfluenceHall.jpg" width="200"/>
 Learn more: http://www.coloradomesa.edu/engineering/degrees/electrical-computer-engineering.html
+
 ---
 
 ## 🎓 About Me
